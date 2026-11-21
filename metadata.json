@@ -1,0 +1,6 @@
+{
+  "name": "The ICS Proposal",
+  "description": "A research-backed academic proposal to help convince Dad to support switching from New Mission Academy to International Community School (ICS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
